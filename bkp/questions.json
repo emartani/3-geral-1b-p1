@@ -3,10 +3,10 @@
     {
       "text": "As cidades e municípios são divididas em ........... e ajudam na orientação e na localização de pessosa e lugares.",
       "options": [
-        { "type": "text", "text": "Bairros", "correct": true },
-        { "type": "text", "text": "Montanhas", "correct": false },
-        { "type": "text", "text": "Prédios", "correct": false },
-        { "type": "text", "text": "Países", "correct": false }
+        { "type": "text", "text": "Bairros", "correct": false },
+        { "type": "text", "text": "Montanhas", "correct": true },
+        { "type": "text", "text": "Prédios", "correct": true },
+        { "type": "text", "text": "Países", "correct": true }
       ]
     },
     {

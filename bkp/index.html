@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz Divertido</title>
+  <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QCMZ7NLLZG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QCMZ7NLLZG');
+</script>
+
+<body class="tema-padrao">
+  <!-- HUD fixo -->
+  <div id="hud">
+    <div id="level">🚀 Fase: 1</div>
+    <div id="score">⭐ Pontuação: 0</div>
+    <div id="lives">❤️ Vidas: 3</div>
+
+    <!-- Aviso e combo-box -->
+    <div id="subjectBox">
+      <label for="subjectSelect" id="subjectLabel">📚 Selecione a matéria:</label>
+      <select id="subjectSelect">
+        <option value="" disabled selected>-- Escolha --</option>
+        <option value="3-materias">História,Ciências Sociais,Geografia</option>
+        <option value="ciências naturais">Ciências Naturais</option>
+        <option value="português">Português</option>
+      </select>
+    </div>
+
+    <!-- Botão de áudio -->
+    <button id="muteBtn" aria-pressed="false" title="Alternar música e efeitos sonoros">🔊 Música: ON</button>
+  </div>
+
+  <!-- Área do jogo -->
+  <div id="game">
+    <div id="question"></div>
+    <div id="options"></div>
+    <button id="submitBtn">✅ Confirmar</button>
+    <div id="feedback"></div>
+    <button id="restartBtn">🔄 Reiniciar</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
