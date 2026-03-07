@@ -51,6 +51,7 @@ body {
   background: #fff176;
   cursor: pointer;
   transition: transform 0.2s, background 0.3s;
+  width: 180px;
 }
 #subjectSelect:hover {
   transform: scale(1.05);
