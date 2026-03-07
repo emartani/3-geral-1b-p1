@@ -1,0 +1,146 @@
+{
+  "3-materias": [
+    {
+      "text": "As cidades e municípios são divididas em ........... e ajudam na orientação e na localização de pessosa e lugares.",
+      "options": [
+        { "type": "text", "text": "Bairros", "correct": false },
+        { "type": "text", "text": "Montanhas", "correct": true },
+        { "type": "text", "text": "Prédios", "correct": true },
+        { "type": "text", "text": "Países", "correct": true }
+      ]
+    },
+    {
+      "text": "Quais atividades você costuma realizar pela manhã?",
+      "options": [
+        { "type": "text", "text": "Acordar", "correct": true },
+        { "type": "text", "text": "Tomar café da manhã", "correct": true },
+        { "type": "text", "text": "Jantar", "correct": false }
+      ]
+    },
+    {
+      "text": "O que podemos encontrar nos bairros urbanos, que ficam localizados na cidade?",
+      "options": [
+        { "type": "text", "text": "casas", "correct": true },
+        { "type": "text", "text": "fazendas", "correct": false },
+        { "type": "text", "text": "prédios", "correct": true },
+        { "type": "text", "text": "escolas", "correct": true },
+        { "type": "text", "text": "montanhas", "correct": false },
+        { "type": "text", "text": "praças e parques", "correct": true }
+      ]
+    },
+    {
+      "text": "Quais espaços públicos temos em nossa cidade para atender as necessidades da população?",
+      "options": [
+        { "type": "text", "text": "hospitais", "correct": true },
+        { "type": "text", "text": "delegacias", "correct": true },
+        { "type": "text", "text": "corpo de bombeiros", "correct": true },
+        { "type": "text", "text": "montanhas", "correct": false },
+        { "type": "text", "text": "posto policial", "correct": true },
+        { "type": "text", "text": "postos de saúde", "correct": true }
+      ]
+    },
+    {
+      "text": "Quais instituições importantes temos em nossa cidade?",
+      "options": [
+        { "type": "text", "text": "prefeitura municipal", "correct": true },
+        { "type": "text", "text": "câmara de vereadores", "correct": true },
+        { "type": "text", "text": "casa do presidente do Brasil", "correct": false },
+        { "type": "text", "text": "fórum", "correct": true }
+      ]
+    },
+    {
+      "text": "Selecione alguns itens de estrutura do município importantes para a população:",
+      "options": [
+        { "type": "text", "text": "ruas e avenidas asfaltadas", "correct": true },
+        { "type": "text", "text": "calçadas adequadas", "correct": true },
+        { "type": "text", "text": "água encanada", "correct": true },
+        { "type": "text", "text": "campo de futebol", "correct": false },
+        { "type": "text", "text": "rede de esgoto", "correct": true },
+        { "type": "text", "text": "parques e praças", "correct": true },
+        { "type": "text", "text": "coleta de lixo", "correct": true }
+      ]
+    },
+    {
+      "text": "O local onde as pessoas moram, vivendo proximas umas das outras em casas ou prédios é chamado de:",
+      "options": [
+        { "type": "text", "text": "espaço doméstico", "correct": true },
+        { "type": "text", "text": "espaço coletivo", "correct": false }
+      ]
+    },
+      {
+      "text": "Os espaços públicos onde cruzamos e convivemos com muitas pessoas como parquinhos, praças e feiras são chamados de:",
+      "options": [
+        { "type": "text", "text": "espaços coletivos", "correct": true },
+        { "type": "text", "text": "espaço doméstico", "correct": false }
+      ]
+    },
+        {
+      "text": "Quais são exemplos de cuidados que devemos ter em espaços públicos e domésticos?",
+      "options": [
+        { "type": "text", "text": "Fazer muito barulho ou ouvir música alto em horário de descanso", "correct": false },
+        { "type": "text", "text": "Respeitar o espaço dos outros e não jogar lixo no chão", "correct": true },
+        { "type": "text", "text": "preservar parques e praças" , "correct": true }
+      ]
+    },
+    {
+      "text": "As pessoas são diferentes, selecione exemplos que diferenciam as pessoas:",
+      "options": [
+        { "type": "text", "text": "cordos olhos e cabelos", "correct": true }, 
+        { "type": "text", "text": "tipos de comida que gosta", "correct": true },
+        { "type": "text", "text": "idioma", "correct": true },
+        { "type": "text", "text": "altura", "correct": true },
+        { "type": "text", "text": "cor da pele", "correct": true },
+        { "type": "text", "text": "tipo de roupa que gosta de usar", "correct": true } 
+      ]
+    },
+    {
+      "text": "Além das comunidades urbanas onde moramos, quais comunidades tradicionais podemos encontrar no Brasil, que também tem diferentes modos de vida?",
+      "options": [
+        { "type": "text", "text": "comunidades indígenas", "correct": true }, 
+        { "type": "text", "text": "comunidades quilombolas", "correct": true },
+        { "type": "text", "text": "comunidades ribeirinhas", "correct": true },
+        { "type": "text", "text": "comunidades caiçaras", "correct": true },
+        { "type": "text", "text": "comunidades virtuais", "correct": false }
+      ]
+    },
+    {
+      "text": "Selecione algumas características do modo de vida indígena:",
+      "options": [
+        { "type": "text", "text": "habitações coletivas onde vivem varias famílias no mesmo espaço", "correct": true },
+        { "type": "text", "text": "habitações contruídas com elementos da natureza, como barro, palha e galhos", "correct": true },
+        { "type": "text", "text": "comem o que plantam ou caçam, como mandioca, peixes e frutas", "correct": true },
+        { "type": "text", "text": "costumam morar em prédios e casas", "correct": false }
+      ]
+    },
+    {
+      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades quilombolas:",
+      "options": [
+        { "type": "text", "text": "foram trazidos da África para o Brasil como escravos", "correct": true },
+        { "type": "text", "text": "vivem em áreas rurais, se alimentam do que plantam, criam ou pescam.", "correct": true },
+        { "type": "text", "text": "normalmente usam água de rios e poços, e a iluminação é feita por lamparinas e velas", "correct": true },
+        { "type": "text", "text": "vivem no polo norte nas regiões congeladas", "correct": false }
+      ]
+    },
+    {
+      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades caiçaras e ribeirinhas:",
+      "options": [
+        { "type": "text", "text": "surgiram da união entre indígenas, africanos e europeus", "correct": true },
+        { "type": "text", "text": "mantém suas tradições, sobrevivendo principalmente da pesca", "correct": true },
+        { "type": "text", "text": "normalmente vivem próximos das praias, rios e lagos", "correct": true },
+        { "type": "text", "text": "vivem nas florestas", "correct": false }
+      ]
+    }
+  ],
+  "ciências naturais": [
+    {
+      "text": "⚠️ Conteúdo desta seção está em desenvolvimento. Novas atividades serão publicadas em breve.",
+      "options": []
+    }
+  ],
+  "português": [
+    {
+      "text": "⚠️ Conteúdo desta seção está em desenvolvimento. Novas atividades serão publicadas em breve.",
+      "options": []
+    }
+  ]
+}
