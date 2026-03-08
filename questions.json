@@ -1,7 +1,7 @@
 {
   "3-materias": [
     {
-      "text": "As cidades e municípios são divididas em ........... e ajudam na orientação e na localização de pessosa e lugares. [1 correta]",
+      "text": "As cidades e municípios são divididas em ........... e ajudam na orientação e na localização de pessoas e lugares. [1 correta]",
       "options": [
         { "type": "text", "text": "Bairros", "correct": true },
         { "type": "text", "text": "Montanhas", "correct": false },
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "text": "O local onde as pessoas moram, vivendo proximas umas das outras em casas ou prédios é chamado de: [1 correta]",
+      "text": "O local onde as pessoas moram, vivendo próximas umas das outras em casas ou prédios é chamado de: [1 correta]",
       "options": [
         { "type": "text", "text": "espaço doméstico", "correct": true },
         { "type": "text", "text": "espaço coletivo", "correct": false }
@@ -77,7 +77,7 @@
     {
       "text": "As pessoas são diferentes, selecione exemplos que diferenciam as pessoas: [6 corretas]",
       "options": [
-        { "type": "text", "text": "cordos olhos e cabelos", "correct": true }, 
+        { "type": "text", "text": "cores dos olhos e cabelos", "correct": true }, 
         { "type": "text", "text": "tipos de comida que gosta", "correct": true },
         { "type": "text", "text": "idioma", "correct": true },
         { "type": "text", "text": "altura", "correct": true },
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "text": "Além das comunidades urbanas onde moramos, quais comunidades tradicionais podemos encontrar no Brasil, que também tem diferentes modos de vida? [4 corretas]",
+      "text": "Além das comunidades urbanas onde moramos, quais comunidades tradicionais podemos encontrar no Brasil, que também têm diferentes modos de vida? [4 corretas]",
       "options": [
         { "type": "text", "text": "comunidades indígenas", "correct": true }, 
         { "type": "text", "text": "comunidades quilombolas", "correct": true },
@@ -98,23 +98,23 @@
     {
       "text": "Selecione algumas características do modo de vida indígena: [3 corretas]",
       "options": [
-        { "type": "text", "text": "habitações coletivas onde vivem varias famílias no mesmo espaço", "correct": true },
-        { "type": "text", "text": "habitações contruídas com elementos da natureza, como barro, palha e galhos", "correct": true },
+        { "type": "text", "text": "habitações coletivas onde vivem várias famílias no mesmo espaço", "correct": true },
+        { "type": "text", "text": "habitações construídas com elementos da natureza, como barro, palha e galhos", "correct": true },
         { "type": "text", "text": "comem o que plantam ou caçam, como mandioca, peixes e frutas", "correct": true },
         { "type": "text", "text": "costumam morar em prédios e casas", "correct": false }
       ]
     },
     {
-      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades quilombolas: [3 corretas]",
+      "text": "Selecione alguns exemplos do que aprendemos sobre as comunidades quilombolas: [3 corretas]",
       "options": [
         { "type": "text", "text": "foram trazidos da África para o Brasil como escravos", "correct": true },
         { "type": "text", "text": "vivem em áreas rurais, se alimentam do que plantam, criam ou pescam.", "correct": true },
         { "type": "text", "text": "normalmente usam água de rios e poços, e a iluminação é feita por lamparinas e velas", "correct": true },
-        { "type": "text", "text": "vivem no polo norte nas regiões congeladas", "correct": false }
+        { "type": "text", "text": "vivem no Polo Norte nas regiões congeladas", "correct": false }
       ]
     },
     {
-      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades caiçaras e ribeirinhas: [3 corretas]",
+      "text": "Selecione alguns exemplos do que aprendemos sobre as comunidades caiçaras e ribeirinhas: [3 corretas]",
       "options": [
         { "type": "text", "text": "surgiram da união entre indígenas, africanos e europeus", "correct": true },
         { "type": "text", "text": "mantém suas tradições, sobrevivendo principalmente da pesca", "correct": true },
