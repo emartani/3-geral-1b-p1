@@ -1,7 +1,7 @@
 {
   "3-materias": [
     {
-      "text": "As cidades e municípios são divididas em ........... e ajudam na orientação e na localização de pessosa e lugares.",
+      "text": "As cidades e municípios são divididas em ........... e ajudam na orientação e na localização de pessosa e lugares. [1 correta]",
       "options": [
         { "type": "text", "text": "Bairros", "correct": true },
         { "type": "text", "text": "Montanhas", "correct": false },
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "text": "O que podemos encontrar nos bairros urbanos, que ficam localizados na cidade?",
+      "text": "O que podemos encontrar nos bairros urbanos, que ficam localizados na cidade? [4 corretas]",
       "options": [
         { "type": "text", "text": "casas", "correct": true },
         { "type": "text", "text": "fazendas", "correct": false },
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "text": "Quais espaços públicos temos em nossa cidade para atender as necessidades da população?",
+      "text": "Quais espaços públicos temos em nossa cidade para atender as necessidades da população? [5 corretas]",
       "options": [
         { "type": "text", "text": "hospitais", "correct": true },
         { "type": "text", "text": "delegacias", "correct": true },
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "text": "Quais instituições importantes temos em nossa cidade?",
+      "text": "Quais instituições importantes temos em nossa cidade? [3 corretas]",
       "options": [
         { "type": "text", "text": "prefeitura municipal", "correct": true },
         { "type": "text", "text": "câmara de vereadores", "correct": true },
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "text": "Selecione alguns itens de estrutura do município importantes para a população:",
+      "text": "Selecione alguns itens de estrutura do município importantes para a população: [6 corretas]",
       "options": [
         { "type": "text", "text": "ruas e avenidas asfaltadas", "correct": true },
         { "type": "text", "text": "calçadas adequadas", "correct": true },
@@ -53,21 +53,21 @@
       ]
     },
     {
-      "text": "O local onde as pessoas moram, vivendo proximas umas das outras em casas ou prédios é chamado de:",
+      "text": "O local onde as pessoas moram, vivendo proximas umas das outras em casas ou prédios é chamado de: [1 correta]",
       "options": [
         { "type": "text", "text": "espaço doméstico", "correct": true },
         { "type": "text", "text": "espaço coletivo", "correct": false }
       ]
     },
       {
-      "text": "Os espaços públicos onde cruzamos e convivemos com muitas pessoas como parquinhos, praças e feiras são chamados de:",
+      "text": "Os espaços públicos onde cruzamos e convivemos com muitas pessoas como parquinhos, praças e feiras são chamados de: [1 correta]",
       "options": [
         { "type": "text", "text": "espaços coletivos", "correct": true },
         { "type": "text", "text": "espaço doméstico", "correct": false }
       ]
     },
         {
-      "text": "Quais são exemplos de cuidados que devemos ter em espaços públicos e domésticos?",
+      "text": "Quais são exemplos de cuidados que devemos ter em espaços públicos e domésticos? [2 corretas]",
       "options": [
         { "type": "text", "text": "Fazer muito barulho ou ouvir música alto em horário de descanso", "correct": false },
         { "type": "text", "text": "Respeitar o espaço dos outros e não jogar lixo no chão", "correct": true },
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "text": "As pessoas são diferentes, selecione exemplos que diferenciam as pessoas:",
+      "text": "As pessoas são diferentes, selecione exemplos que diferenciam as pessoas: [6 corretas]",
       "options": [
         { "type": "text", "text": "cordos olhos e cabelos", "correct": true }, 
         { "type": "text", "text": "tipos de comida que gosta", "correct": true },
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "text": "Além das comunidades urbanas onde moramos, quais comunidades tradicionais podemos encontrar no Brasil, que também tem diferentes modos de vida?",
+      "text": "Além das comunidades urbanas onde moramos, quais comunidades tradicionais podemos encontrar no Brasil, que também tem diferentes modos de vida? [4 corretas]",
       "options": [
         { "type": "text", "text": "comunidades indígenas", "correct": true }, 
         { "type": "text", "text": "comunidades quilombolas", "correct": true },
@@ -96,7 +96,7 @@
       ]
     },
     {
-      "text": "Selecione algumas características do modo de vida indígena:",
+      "text": "Selecione algumas características do modo de vida indígena: [3 corretas]",
       "options": [
         { "type": "text", "text": "habitações coletivas onde vivem varias famílias no mesmo espaço", "correct": true },
         { "type": "text", "text": "habitações contruídas com elementos da natureza, como barro, palha e galhos", "correct": true },
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades quilombolas:",
+      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades quilombolas: [3 corretas]",
       "options": [
         { "type": "text", "text": "foram trazidos da África para o Brasil como escravos", "correct": true },
         { "type": "text", "text": "vivem em áreas rurais, se alimentam do que plantam, criam ou pescam.", "correct": true },
@@ -114,7 +114,7 @@
       ]
     },
     {
-      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades caiçaras e ribeirinhas:",
+      "text": "Selecione alguns exemplos do que aprendemos sobre as comunicades caiçaras e ribeirinhas: [3 corretas]",
       "options": [
         { "type": "text", "text": "surgiram da união entre indígenas, africanos e europeus", "correct": true },
         { "type": "text", "text": "mantém suas tradições, sobrevivendo principalmente da pesca", "correct": true },
