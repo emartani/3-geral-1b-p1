@@ -1,134 +1,316 @@
 {
   "3-materias": [
     {
-      "text": "As cidades e municípios são divididas em ........... e ajudam na orientação e na localização de pessoas e lugares. [1 correta]",
+      "text": "As cidades são divididas em partes menores que ajudam a encontrar lugares e se orientar. Como chamamos essas partes? [1 correta]",
       "options": [
         { "type": "text", "text": "Bairros", "correct": true },
-        { "type": "text", "text": "Montanhas", "correct": false },
-        { "type": "text", "text": "Prédios", "correct": false },
-        { "type": "text", "text": "Países", "correct": false }
+        { "type": "text", "text": "Montanhas com escorregador gigante", "correct": false },
+        { "type": "text", "text": "Prédios que andam de patins", "correct": false },
+        { "type": "text", "text": "O país dos unicórnios", "correct": false }
       ]
     },
     {
-      "text": "O que podemos encontrar nos bairros urbanos, que ficam localizados na cidade? [4 corretas]",
+      "text": "O que podemos encontrar nos bairros urbanos das cidades? [4 corretas]",
       "options": [
-        { "type": "text", "text": "casas", "correct": true },
-        { "type": "text", "text": "fazendas", "correct": false },
-        { "type": "text", "text": "prédios", "correct": true },
-        { "type": "text", "text": "escolas", "correct": true },
-        { "type": "text", "text": "montanhas", "correct": false },
-        { "type": "text", "text": "praças e parques", "correct": true }
+        { "type": "text", "text": "Casas", "correct": true },
+        { "type": "text", "text": "Prédios", "correct": true },
+        { "type": "text", "text": "Escolas", "correct": true },
+        { "type": "text", "text": "Praças e parques", "correct": true },
+        { "type": "text", "text": "Fazendas de nuvens cor‑de‑rosa", "correct": false },
+        { "type": "text", "text": "Montanhas de marshmallow", "correct": false }
       ]
     },
     {
-      "text": "Quais espaços públicos temos em nossa cidade para atender as necessidades da população? [5 corretas]",
+      "text": "Quais espaços públicos ajudam a cuidar da população na cidade? [5 corretas]",
       "options": [
-        { "type": "text", "text": "hospitais", "correct": true },
-        { "type": "text", "text": "delegacias", "correct": true },
-        { "type": "text", "text": "corpo de bombeiros", "correct": true },
-        { "type": "text", "text": "montanhas", "correct": false },
-        { "type": "text", "text": "posto policial", "correct": true },
-        { "type": "text", "text": "postos de saúde", "correct": true }
+        { "type": "text", "text": "Hospitais", "correct": true },
+        { "type": "text", "text": "Delegacias", "correct": true },
+        { "type": "text", "text": "Corpo de bombeiros", "correct": true },
+        { "type": "text", "text": "Posto policial", "correct": true },
+        { "type": "text", "text": "Postos de saúde", "correct": true },
+        { "type": "text", "text": "Montanhas falantes que resolvem tudo", "correct": false }
       ]
     },
     {
-      "text": "Quais instituições importantes temos em nossa cidade? [3 corretas]",
+      "text": "Quais instituições são importantes para organizar e cuidar da cidade? [3 corretas]",
       "options": [
-        { "type": "text", "text": "prefeitura municipal", "correct": true },
-        { "type": "text", "text": "câmara de vereadores", "correct": true },
-        { "type": "text", "text": "casa do presidente do Brasil", "correct": false },
-        { "type": "text", "text": "fórum", "correct": true }
+        { "type": "text", "text": "Prefeitura municipal", "correct": true },
+        { "type": "text", "text": "Câmara de vereadores", "correct": true },
+        { "type": "text", "text": "Fórum", "correct": true },
+        { "type": "text", "text": "O castelo secreto do presidente", "correct": false }
       ]
     },
     {
-      "text": "Selecione alguns itens de estrutura do município importantes para a população: [6 corretas]",
+      "text": "Selecione alguns itens importantes na estrutura de um município. [6 corretas]",
       "options": [
-        { "type": "text", "text": "ruas e avenidas asfaltadas", "correct": true },
-        { "type": "text", "text": "calçadas adequadas", "correct": true },
-        { "type": "text", "text": "água encanada", "correct": true },
-        { "type": "text", "text": "campo de futebol", "correct": false },
-        { "type": "text", "text": "rede de esgoto", "correct": true },
-        { "type": "text", "text": "parques e praças", "correct": true },
-        { "type": "text", "text": "coleta de lixo", "correct": true }
+        { "type": "text", "text": "Ruas e avenidas asfaltadas", "correct": true },
+        { "type": "text", "text": "Calçadas adequadas", "correct": true },
+        { "type": "text", "text": "Água encanada", "correct": true },
+        { "type": "text", "text": "Rede de esgoto", "correct": true },
+        { "type": "text", "text": "Parques e praças", "correct": true },
+        { "type": "text", "text": "Coleta de lixo", "correct": true },
+        { "type": "text", "text": "Um tapete mágico gigante para ir à escola", "correct": false }
       ]
     },
     {
-      "text": "O local onde as pessoas moram, vivendo próximas umas das outras em casas ou prédios é chamado de: [1 correta]",
+      "text": "Como chamamos o lugar onde as pessoas moram, em casas ou prédios, perto umas das outras? [1 correta]",
       "options": [
-        { "type": "text", "text": "espaço doméstico", "correct": true },
-        { "type": "text", "text": "espaço coletivo", "correct": false }
-      ]
-    },
-      {
-      "text": "Os espaços públicos onde cruzamos e convivemos com muitas pessoas como parquinhos, praças e feiras são chamados de: [1 correta]",
-      "options": [
-        { "type": "text", "text": "espaços coletivos", "correct": true },
-        { "type": "text", "text": "espaço doméstico", "correct": false }
-      ]
-    },
-        {
-      "text": "Quais são exemplos de cuidados que devemos ter em espaços públicos e domésticos? [2 corretas]",
-      "options": [
-        { "type": "text", "text": "Fazer muito barulho ou ouvir música alto em horário de descanso", "correct": false },
-        { "type": "text", "text": "Respeitar o espaço dos outros e não jogar lixo no chão", "correct": true },
-        { "type": "text", "text": "preservar parques e praças" , "correct": true }
+        { "type": "text", "text": "Espaço doméstico", "correct": true },
+        { "type": "text", "text": "Um 'espaço coletivo' que é uma nave espacial compartilhada", "correct": false }
       ]
     },
     {
-      "text": "As pessoas são diferentes, selecione exemplos que diferenciam as pessoas: [6 corretas]",
+      "text": "Parquinhos, praças e feiras onde muitas pessoas convivem são chamados de: [1 correta]",
       "options": [
-        { "type": "text", "text": "cores dos olhos e cabelos", "correct": true }, 
-        { "type": "text", "text": "tipos de comida que gosta", "correct": true },
-        { "type": "text", "text": "idioma", "correct": true },
-        { "type": "text", "text": "altura", "correct": true },
-        { "type": "text", "text": "cor da pele", "correct": true },
-        { "type": "text", "text": "tipo de roupa que gosta de usar", "correct": true } 
+        { "type": "text", "text": "Espaços coletivos", "correct": true },
+        { "type": "text", "text": "Espaço doméstico com piscina de gelatina", "correct": false }
       ]
     },
     {
-      "text": "Além das comunidades urbanas onde moramos, quais comunidades tradicionais podemos encontrar no Brasil, que também têm diferentes modos de vida? [4 corretas]",
+      "text": "Quais são exemplos de cuidados importantes em espaços públicos e em casa? [2 corretas]",
       "options": [
-        { "type": "text", "text": "comunidades indígenas", "correct": true }, 
-        { "type": "text", "text": "comunidades quilombolas", "correct": true },
-        { "type": "text", "text": "comunidades ribeirinhas", "correct": true },
-        { "type": "text", "text": "comunidades caiçaras", "correct": true },
-        { "type": "text", "text": "comunidades virtuais", "correct": false }
+        { "type": "text", "text": "Respeitar os outros e não jogar lixo no chão", "correct": true },
+        { "type": "text", "text": "Cuidar de parques e praças", "correct": true },
+        { "type": "text", "text": "Fazer festa com música alta às 3 da manhã", "correct": false }
       ]
     },
     {
-      "text": "Selecione algumas características do modo de vida indígena: [3 corretas]",
+      "text": "As pessoas são diferentes. Quais destas características podem variar entre elas? [6 corretas]",
       "options": [
-        { "type": "text", "text": "habitações coletivas onde vivem várias famílias no mesmo espaço", "correct": true },
-        { "type": "text", "text": "habitações construídas com elementos da natureza, como barro, palha e galhos", "correct": true },
-        { "type": "text", "text": "comem o que plantam ou caçam, como mandioca, peixes e frutas", "correct": true },
-        { "type": "text", "text": "costumam morar em prédios e casas", "correct": false }
+        { "type": "text", "text": "Cores dos olhos e cabelos", "correct": true },
+        { "type": "text", "text": "Alimentos de que gostam", "correct": true },
+        { "type": "text", "text": "Idioma que falam", "correct": true },
+        { "type": "text", "text": "Altura", "correct": true },
+        { "type": "text", "text": "Cor da pele", "correct": true },
+        { "type": "text", "text": "Tipo de roupa preferida", "correct": true },
+        { "type": "text", "text": "Ser metade humano metade dragão", "correct": false }
       ]
     },
     {
-      "text": "Selecione alguns exemplos do que aprendemos sobre as comunidades quilombolas: [3 corretas]",
+      "text": "Quais comunidades tradicionais existem no Brasil, além das áreas urbanas? [4 corretas]",
       "options": [
-        { "type": "text", "text": "foram trazidos da África para o Brasil como escravos", "correct": true },
-        { "type": "text", "text": "vivem em áreas rurais, se alimentam do que plantam, criam ou pescam.", "correct": true },
-        { "type": "text", "text": "normalmente usam água de rios e poços, e a iluminação é feita por lamparinas e velas", "correct": true },
-        { "type": "text", "text": "vivem no Polo Norte nas regiões congeladas", "correct": false }
+        { "type": "text", "text": "Comunidades indígenas", "correct": true },
+        { "type": "text", "text": "Comunidades quilombolas", "correct": true },
+        { "type": "text", "text": "Comunidades ribeirinhas", "correct": true },
+        { "type": "text", "text": "Comunidades caiçaras", "correct": true },
+        { "type": "text", "text": "Comunidade dos astronautas perdidos", "correct": false }
       ]
     },
     {
-      "text": "Selecione alguns exemplos do que aprendemos sobre as comunidades caiçaras e ribeirinhas: [3 corretas]",
+      "text": "Quais características fazem parte do modo de vida indígena? [3 corretas]",
       "options": [
-        { "type": "text", "text": "surgiram da união entre indígenas, africanos e europeus", "correct": true },
-        { "type": "text", "text": "mantém suas tradições, sobrevivendo principalmente da pesca", "correct": true },
-        { "type": "text", "text": "normalmente vivem próximos das praias, rios e lagos", "correct": true },
-        { "type": "text", "text": "vivem nas florestas", "correct": false }
+        { "type": "text", "text": "Moram em habitações coletivas com várias famílias", "correct": true },
+        { "type": "text", "text": "Constroem casas com elementos da natureza", "correct": true },
+        { "type": "text", "text": "Comem alimentos que plantam ou caçam", "correct": true },
+        { "type": "text", "text": "Moram em arranha‑céus com elevador para as nuvens", "correct": false }
+      ]
+    },
+    {
+      "text": "O que aprendemos sobre as comunidades quilombolas? [3 corretas]",
+      "options": [
+        { "type": "text", "text": "Foram formadas por descendentes de africanos escravizados", "correct": true },
+        { "type": "text", "text": "Vivem em áreas rurais e produzem seu próprio alimento", "correct": true },
+        { "type": "text", "text": "Usam água de rios e poços e iluminação simples", "correct": true },
+        { "type": "text", "text": "Vivem no Polo Norte com pinguins dançarinos", "correct": false }
+      ]
+    },
+    {
+      "text": "Quais características fazem parte das comunidades caiçaras e ribeirinhas? [3 corretas]",
+      "options": [
+        { "type": "text", "text": "Surgiram da união entre indígenas, africanos e europeus", "correct": true },
+        { "type": "text", "text": "Vivem próximos de praias, rios e lagos", "correct": true },
+        { "type": "text", "text": "Dependem da pesca para sobreviver", "correct": true },
+        { "type": "text", "text": "Vivem no fundo do mar em castelos mágicos", "correct": false }
       ]
     }
   ],
   "ciências naturais": [
     {
-      "text": "⚠️ Conteúdo desta seção está em desenvolvimento. Novas atividades serão publicadas em breve.",
-      "options": []
+      "text": "Quanto tempo a Terra leva para girar completamente e formar um dia? [1 correta]",
+      "options": [
+        { "type": "text", "text": "24 horas", "correct": true },
+        { "type": "text", "text": "1 mês inteiro (se a Terra estiver com preguiça)", "correct": false },
+        { "type": "text", "text": "1 minuto turbinado com café", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual é a estrela mais próxima da Terra? [1 correta]",
+      "options": [
+        { "type": "text", "text": "O Sol", "correct": true },
+        { "type": "text", "text": "Uma lanterna gigante no espaço", "correct": false },
+        { "type": "text", "text": "A Lua disfarçada de estrela", "correct": false }
+      ]
+    },
+    {
+      "text": "Se aqui é dia e está claro, como está do outro lado do planeta? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Noite e está escuro", "correct": true },
+        { "type": "text", "text": "Hora do show de fogos todo dia", "correct": false },
+        { "type": "text", "text": "Sempre ensolarado com óculos de sol obrigatórios", "correct": false }
+      ]
+    },
+    {
+      "text": "Selecione os planetas que fazem parte do Sistema Solar: [8 corretas]",
+      "options": [
+        { "type": "text", "text": "Mercúrio", "correct": true },
+        { "type": "text", "text": "Vênus", "correct": true },
+        { "type": "text", "text": "Terra", "correct": true },
+        { "type": "text", "text": "Marte", "correct": true },
+        { "type": "text", "text": "Júpiter", "correct": true },
+        { "type": "text", "text": "Saturno", "correct": true },
+        { "type": "text", "text": "Urano", "correct": true },
+        { "type": "text", "text": "Netuno", "correct": true },
+        { "type": "text", "text": "Planeta Picolé (derrete no verão)", "correct": false }
+      ]
+    },
+    {
+      "text": "Os grupos de estrelas como Órion e Escorpião são chamados de: [1 correta]",
+      "options": [
+        { "type": "text", "text": "Constelações", "correct": true },
+        { "type": "text", "text": "Planetas patinadores", "correct": false },
+        { "type": "text", "text": "Asteroides que tiram selfie", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual é o formato do planeta Terra? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Esférico (redondo)", "correct": true },
+        { "type": "text", "text": "Pão de queijo gigante", "correct": false },
+        { "type": "text", "text": "Quadrado como um cubo mágico", "correct": false }
+      ]
+    },
+    {
+      "text": "O que são as partes azuis que vemos na Terra quando olhamos do espaço? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Mares, oceanos, rios e lagos", "correct": true },
+        { "type": "text", "text": "Tapetes azuis de ginástica", "correct": false },
+        { "type": "text", "text": "Piscinas infinitas de suco", "correct": false }
+      ]
+    },
+    {
+      "text": "O que são as partes marrons e verdes que vemos na Terra do espaço? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Terras, rochas e florestas", "correct": true },
+        { "type": "text", "text": "Geleiras de chocolate", "correct": false },
+        { "type": "text", "text": "Quadras de futebol gigantes", "correct": false }
+      ]
+    },
+    {
+      "text": "O que são as partes verdes que vemos na Terra do espaço? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Florestas, campos e pastagens", "correct": true },
+        { "type": "text", "text": "Mares de slime verde", "correct": false },
+        { "type": "text", "text": "Desertos de confete", "correct": false }
+      ]
+    },
+    {
+      "text": "Para que serve o globo terrestre? [3 corretas]",
+      "options": [
+        { "type": "text", "text": "Mostrar a forma e a localização dos continentes e oceanos", "correct": true },
+        { "type": "text", "text": "Mostrar o tamanho dos países e em qual parte do planeta fica cada um", "correct": true },
+        { "type": "text", "text": "Ajudar a ver onde fica cada área de terra ou água de um jeito fácil", "correct": true },
+        { "type": "text", "text": "Servir de bola para jogar futebol no recreio", "correct": false }
+      ]
+    },
+    {
+      "text": "Como se chama a camada de terra na superfície do planeta, onde pisamos e as plantas crescem? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Solo", "correct": true },
+        { "type": "text", "text": "Areia de glitter espacial", "correct": false },
+        { "type": "text", "text": "Gelatina azul super saltitante", "correct": false }
+      ]
+    },
+    {
+      "text": "Quais características do solo podemos estudar? [6 corretas]",
+      "options": [
+        { "type": "text", "text": "Cor", "correct": true },
+        { "type": "text", "text": "Textura", "correct": true },
+        { "type": "text", "text": "Tamanho das partículas (granulometria)", "correct": true },
+        { "type": "text", "text": "Porosidade", "correct": true },
+        { "type": "text", "text": "Permeabilidade", "correct": true },
+        { "type": "text", "text": "Umidade", "correct": true },
+        { "type": "text", "text": "Sabor de chocolate", "correct": false }
+      ]
+    },
+    {
+      "text": "Do que o solo é formado? (marque os que fazem parte) [4 corretas]",
+      "options": [
+        { "type": "text", "text": "Pedacinhos de rochas", "correct": true },
+        { "type": "text", "text": "Restos de plantas e animais (matéria orgânica)", "correct": true },
+        { "type": "text", "text": "Seres vivos pequenos, como minhocas e insetos", "correct": true },
+        { "type": "text", "text": "Minerais, água e ar", "correct": true },
+        { "type": "text", "text": "Purpurina de arco‑íris", "correct": false }
+      ]
+    },
+    {
+      "text": "No Brasil, quando uma fazenda planta somente um tipo de planta (só café, só soja, só cana), como isso se chama? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Monocultura", "correct": true },
+        { "type": "text", "text": "Policultura (plantação mágica que dá até dinossauro de plástico)", "correct": false },
+        { "type": "text", "text": "Agroecologia (fazenda dos super‑heróis verdes)", "correct": false }
+      ]
+    },
+    {
+      "text": "Quando uma fazenda planta vários tipos de plantas (hortaliças, frutas, verduras) juntas, isso se chama: [1 correta]",
+      "options": [
+        { "type": "text", "text": "Policultura", "correct": true },
+        { "type": "text", "text": "Monocultura (um campo só de batata para sempre)", "correct": false },
+        { "type": "text", "text": "Agroecologia (planta que conversa com as árvores)", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual tipo de agricultura usa plantas variadas e trabalha em parceria com a natureza do lugar (espécies nativas)? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Agroecologia", "correct": true },
+        { "type": "text", "text": "Monocultura turbo", "correct": false },
+        { "type": "text", "text": "Policultura do espaço", "correct": false }
+      ]
+    },
+    {
+      "text": "A pecuária é a criação de quais seres? [1 correta]",
+      "options": [
+        { "type": "text", "text": "Animais como bois, vacas, porcos, aves e ovelhas", "correct": true },
+        { "type": "text", "text": "Árvores que dão pizza", "correct": false },
+        { "type": "text", "text": "Peixes voadores que entregam cartas", "correct": false }
+      ]
+    },
+    {
+      "text": "A pecuária de corte cria animais para: [1 correta]",
+      "options": [
+        { "type": "text", "text": "Produzir carne", "correct": true },
+        { "type": "text", "text": "Puxar carruagens de dragão", "correct": false },
+        { "type": "text", "text": "Virarem jogadores de futebol", "correct": false }
+      ]
+    },
+    {
+      "text": "A pecuária leiteira cria animais para: [1 correta]",
+      "options": [
+        { "type": "text", "text": "Produzir leite e derivados", "correct": true },
+        { "type": "text", "text": "Produzir lã para casacos invisíveis", "correct": false },
+        { "type": "text", "text": "Produzir vento para pipa", "correct": false }
+      ]
+    },
+    {
+      "text": "Para que serve a mineração? (marque as corretas) [3 corretas]",
+      "options": [
+        { "type": "text", "text": "Retirar minerais do solo e das rochas", "correct": true },
+        { "type": "text", "text": "Conseguir materiais usados para fazer vários objetos", "correct": true },
+        { "type": "text", "text": "Entender que minerais levam milhões de anos para se formar", "correct": true },
+        { "type": "text", "text": "Encontrar tesouros de piratas no quintal", "correct": false },
+        { "type": "text", "text": "Cavar buracos gigantes só para brincar de esconde‑esconde", "correct": false }
+      ]
+    },
+    {
+      "text": "Por que a mineração pode prejudicar a natureza? [2 corretas]",
+      "options": [
+        { "type": "text", "text": "Porque causa impactos e pode provocar desastres", "correct": true },
+        { "type": "text", "text": "Porque a área explorada demora para se recuperar", "correct": true },
+        { "type": "text", "text": "Porque os duendes que moram no solo ficam bravos", "correct": false },
+        { "type": "text", "text": "Porque os dinossauros acordam se cavarmos muito fundo", "correct": false }
+      ]
     }
-  ],
+    ],
+    
   "português": [
     {
       "text": "⚠️ Conteúdo desta seção está em desenvolvimento. Novas atividades serão publicadas em breve.",
