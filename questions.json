@@ -313,8 +313,181 @@
     
   "português": [
     {
-      "text": "⚠️ Conteúdo desta seção está em desenvolvimento. Novas atividades serão publicadas em breve.",
-      "options": []
+      "text": "Coloque em ordem alfabética: [gato, abelha, foca]",
+      "options": [
+        { "type": "text", "text": "abelha, foca, gato", "correct": true },
+        { "type": "text", "text": "gato, abelha, foca", "correct": false },
+        { "type": "text", "text": "foca, gato, abelha", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual vem primeiro na ordem alfabética?",
+      "options": [
+        { "type": "text", "text": "carro", "correct": true },
+        { "type": "text", "text": "cavalo", "correct": false },
+        { "type": "text", "text": "caderno", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual vem por último na ordem alfabética?",
+      "options": [
+        { "type": "text", "text": "zebra", "correct": true },
+        { "type": "text", "text": "urso", "correct": false },
+        { "type": "text", "text": "vaca", "correct": false }
+      ]
+    },
+    {
+      "text": "Observe as imagens e escolha qual delas representa o animal ou inseto que viria primeiro na ordem alfabética.",
+      "options": [
+        { "type": "image", "text": "figuras/cachorro.png", "correct": true },
+        { "type": "image", "text": "figuras/peixe.png", "correct": false },
+        { "type": "image", "text": "figuras/abelha.png", "correct": false }
+      ]
+    },
+        {
+      "text": "Observe as imagens e escolha qual delas representa o animal que viria por último na ordem alfabética.",
+      "options": [
+        { "type": "image", "text": "figuras/tucano.png", "correct": true },
+        { "type": "image", "text": "figuras/borboleta.png", "correct": false },
+        { "type": "image", "text": "figuras/gato.png", "correct": false }
+      ]
+    },
+    {
+      "text": "Separe as sílabas da palavra [JANELA].",
+      "options": [
+        { "type": "text", "text": "JA-NE-LA", "correct": true },
+        { "type": "text", "text": "JAN-E-LA", "correct": false },
+        { "type": "text", "text": "J-A-NE-LA", "correct": false }
+      ]
+    },
+    {
+      "text": "Quantas sílabas tem a palavra [TELEFONE]?",
+      "options": [
+        { "type": "text", "text": "4", "correct": true },
+        { "type": "text", "text": "3", "correct": false },
+        { "type": "text", "text": "5", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual é a separação correta de [CADERNO]?",
+      "options": [
+        { "type": "text", "text": "CA-DER-NO", "correct": true },
+        { "type": "text", "text": "CAD-ER-NO", "correct": false },
+        { "type": "text", "text": "CA-DER-N-O", "correct": false }
+      ]
+    },
+    {
+      "text": "Monte a palavra usando as sílabas: [CO – CA – MA]",
+      "options": [
+        { "type": "text", "text": "MACACO", "correct": true },
+        { "type": "text", "text": "COMAMA", "correct": false },
+        { "type": "text", "text": "CAMOMA", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual palavra pode ser formada com: [LA – BO]?",
+      "options": [
+        { "type": "text", "text": "BOLA", "correct": true },
+        { "type": "text", "text": "ALBO", "correct": false },
+        { "type": "text", "text": "LABO", "correct": false }
+      ]
+    },
+    {
+      "text": "Escolha a palavra formada corretamente pelas sílabas: [LHA – PA – ÇO]",
+      "options": [
+        { "type": "text", "text": "PALHAÇO", "correct": true },
+        { "type": "text", "text": "PAÇO-LHA", "correct": false },
+        { "type": "text", "text": "LHA-PA-ÇO", "correct": false }
+      ]
+    },
+    {
+      "text": "Escolha a frase com a pontuação correta.",
+      "options": [
+        { "type": "text", "text": "Você gosta de sorvete?", "correct": true },
+        { "type": "text", "text": "Você gosta de sorvete!", "correct": false },
+        { "type": "text", "text": "Você gosta de sorvete.", "correct": false }
+      ]
+    },
+    {
+      "text": "Escolha a frase que deve terminar com ponto final.",
+      "options": [
+        { "type": "text", "text": "Hoje vou ao parque.", "correct": true },
+        { "type": "text", "text": "Onde você está", "correct": false },
+        { "type": "text", "text": "Que lindo!", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual frase deve terminar com ponto de exclamação?",
+      "options": [
+        { "type": "text", "text": "Que susto!", "correct": true },
+        { "type": "text", "text": "Você viu isso?", "correct": false },
+        { "type": "text", "text": "Eu gosto de pizza.", "correct": false }
+      ]
+    },
+    {
+      "text": "Complete a fala corretamente: João disse __ Está chovendo!",
+      "options": [
+        { "type": "text", "text": "João disse: — Está chovendo!", "correct": true },
+        { "type": "text", "text": "João disse —: Está chovendo!", "correct": false },
+        { "type": "text", "text": "João — disse: Está chovendo!", "correct": false }
+      ]
+    },
+    {
+      "text": "Assinale a forma correta para iniciar uma fala:",
+      "options": [
+        { "type": "text", "text": "— Eu gosto de brincar.", "correct": true },
+        { "type": "text", "text": "! Eu gosto de brincar.", "correct": false },
+        { "type": "text", "text": ": Eu gosto de brincar.", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual palavra tem SS?",
+      "options": [
+        { "type": "text", "text": "pa__arinho", "correct": true },
+        { "type": "text", "text": "__apo", "correct": false },
+        { "type": "text", "text": "ca__a", "correct": false }
+      ]
+    },
+    {
+      "text": "Complete com SS: pa__eio",
+      "options": [
+        { "type": "text", "text": "passeio", "correct": true },
+        { "type": "text", "text": "paseio", "correct": false },
+        { "type": "text", "text": "passseio", "correct": false }
+      ]
+    },
+    {
+      "text": "Assinale a palavra escrita corretamente:",
+      "options": [
+        { "type": "text", "text": "massa", "correct": true },
+        { "type": "text", "text": "masa", "correct": false },
+        { "type": "text", "text": "masssa", "correct": false }
+      ]
+    },
+    {
+      "text": "Assinale o substantivo próprio.",
+      "options": [
+        { "type": "text", "text": "Brasil", "correct": true },
+        { "type": "text", "text": "país", "correct": false },
+        { "type": "text", "text": "cidade", "correct": false }
+      ]
+    },
+    {
+      "text": "Assinale o substantivo comum.",
+      "options": [
+        { "type": "text", "text": "menino", "correct": true },
+        { "type": "text", "text": "Lucas", "correct": false },
+        { "type": "text", "text": "João", "correct": false }
+      ]
+    },
+    {
+      "text": "Em um poema, se alguém diz: 'Gosto de vento com chuva!', qual é o sentimento?",
+      "options": [
+        { "type": "text", "text": "Alegria ou empolgação", "correct": true },
+        { "type": "text", "text": "Medo", "correct": false },
+        { "type": "text", "text": "Tristeza", "correct": false }
+      ]
     }
+
   ]
 }
