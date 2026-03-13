@@ -321,35 +321,11 @@
       ]
     },
     {
-      "text": "Qual vem primeiro na ordem alfabética?",
-      "options": [
-        { "type": "text", "text": "carro", "correct": true },
-        { "type": "text", "text": "cavalo", "correct": false },
-        { "type": "text", "text": "caderno", "correct": false }
-      ]
-    },
-    {
       "text": "Qual vem por último na ordem alfabética?",
       "options": [
         { "type": "text", "text": "zebra", "correct": true },
         { "type": "text", "text": "urso", "correct": false },
         { "type": "text", "text": "vaca", "correct": false }
-      ]
-    },
-    {
-      "text": "Observe as imagens e escolha qual delas representa o animal ou inseto que viria primeiro na ordem alfabética.",
-      "options": [
-        { "type": "image", "text": "figuras/cachorro.png", "correct": true },
-        { "type": "image", "text": "figuras/peixe.png", "correct": false },
-        { "type": "image", "text": "figuras/abelha.png", "correct": false }
-      ]
-    },
-        {
-      "text": "Observe as imagens e escolha qual delas representa o animal que viria por último na ordem alfabética.",
-      "options": [
-        { "type": "image", "text": "figuras/tucano.png", "correct": true },
-        { "type": "image", "text": "figuras/borboleta.png", "correct": false },
-        { "type": "image", "text": "figuras/gato.png", "correct": false }
       ]
     },
     {
@@ -396,8 +372,8 @@
       "text": "Escolha a palavra formada corretamente pelas sílabas: [LHA – PA – ÇO]",
       "options": [
         { "type": "text", "text": "PALHAÇO", "correct": true },
-        { "type": "text", "text": "PAÇO-LHA", "correct": false },
-        { "type": "text", "text": "LHA-PA-ÇO", "correct": false }
+        { "type": "text", "text": "PAÇOLHA", "correct": false },
+        { "type": "text", "text": "LHAPAÇO", "correct": false }
       ]
     },
     {
