@@ -463,7 +463,87 @@
         { "type": "text", "text": "Medo", "correct": false },
         { "type": "text", "text": "Tristeza", "correct": false }
       ]
+    }, 
+    {
+      "text": "Separe as sílabas da palavra [PASSARO].",
+      "options": [
+        { "type": "text", "text": "PAS-SA-RO", "correct": true },
+        { "type": "text", "text": "PA-SSARO", "correct": false },
+        { "type": "text", "text": "PASS-A-RO", "correct": false }
+      ]
+    },
+    {
+      "text": "Separe as sílabas da palavra [MASSA].",
+      "options": [
+        { "type": "text", "text": "MAS-SA", "correct": true },
+        { "type": "text", "text": "MA-SSA", "correct": false },
+        { "type": "text", "text": "M-A-SSA", "correct": false }
+      ]
+    },
+    {
+      "text": "Separe as sílabas da palavra [PASSEIO].",
+      "options": [
+        { "type": "text", "text": "PAS-SEI-O", "correct": true },
+        { "type": "text", "text": "PA-SSE-IO", "correct": false },
+        { "type": "text", "text": "PASS-EI-O", "correct": false }
+      ]
+    },
+    {
+      "text": "Separe as sílabas da palavra [PASSARINHO].",
+      "options": [
+        { "type": "text", "text": "PAS-SA-RI-NHO", "correct": true },
+        { "type": "text", "text": "PA-SSA-RIN-HO", "correct": false },
+        { "type": "text", "text": "PASSA-RI-NHO", "correct": false }
+      ]
+    },
+    {
+      "text": "Separe as sílabas da palavra [PRESSA].",
+      "options": [
+        { "type": "text", "text": "PRES-SA", "correct": true },
+        { "type": "text", "text": "PRE-SSA", "correct": false },
+        { "type": "text", "text": "P-RESSA", "correct": false }
+      ]
+    },
+    
+    {
+      "text": "As reticências (...) mostram que algo continua acontecendo. Qual frase mostra isso de um jeito fácil de entender?",
+      "options": [
+        { "type": "text", "text": "Ele correu, correu, correu...", "correct": true },
+        { "type": "text", "text": "Ele correu muito rápido.", "correct": false },
+        { "type": "text", "text": "Ele correu só uma vez.", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual frase mostra que a lista ainda não acabou?",
+      "options": [
+        { "type": "text", "text": "No céu tinha pássaros, nuvens, borboletas...", "correct": true },
+        { "type": "text", "text": "No céu tinha pássaros.", "correct": false },
+        { "type": "text", "text": "No céu tinha muitas coisas.", "correct": false }
+      ]
+    },
+    {
+      "text": "Escolha a frase em que as reticências mostram repetição, como se continuasse igual por muito tempo.",
+      "options": [
+        { "type": "text", "text": "Ele pulou de alegria de novo, e de novo...", "correct": true },
+        { "type": "text", "text": "Ele pulou uma vez.", "correct": false },
+        { "type": "text", "text": "Ele pulou muito alto.", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual frase usa as reticências para mostrar que algo demorou bastante?",
+      "options": [
+        { "type": "text", "text": "A chuva caiu o dia inteiro...", "correct": true },
+        { "type": "text", "text": "A chuva caiu forte.", "correct": false },
+        { "type": "text", "text": "A chuva caiu e parou rápido.", "correct": false }
+      ]
+    },
+    {
+      "text": "Qual frase deixa a ideia 'em aberto', como se tivesse mais coisa depois?",
+      "options": [
+        { "type": "text", "text": "A trilha era longa... muito longa...", "correct": true },
+        { "type": "text", "text": "A trilha era curta.", "correct": false },
+        { "type": "text", "text": "A trilha era difícil.", "correct": false }
+      ]
     }
-
   ]
 }
